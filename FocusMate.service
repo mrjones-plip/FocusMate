@@ -1,0 +1,15 @@
+[Unit]
+Description=focusmate
+Description=focusmate
+After=network.target
+
+[Service]
+Type=simple
+User=pi
+WorkingDirectory=/home/pi/focusmate
+ExecStart=/usr/bin/python3 -u /home/pi/focusmate/FocusMate.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
