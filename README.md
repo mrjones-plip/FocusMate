@@ -2,11 +2,7 @@
 
 A quick hack to add a manual, physical focus knob to webcam:
 
-
-
 https://user-images.githubusercontent.com/8253488/144701611-5f131b07-f3ba-4408-bb25-e96bb649a4c4.mp4
-
-
 
 Specifically, the Logitech C920 is notorious for regularly re-focussing:
 
@@ -18,7 +14,7 @@ Also see [here](https://support.logi.com/hc/en-001/community/posts/360049083554-
 This quick hack solves the focus issue by:
 * Turns off autofocus
 * Sets the focus to 0 (should be in focus if you 20"+ away)
-* Allows you to use your [PowerMate](https://support.griffintechnology.com/product/powermate/) to focus
+* Allows you to use your [PowerMate](https://en.wikipedia.org/wiki/Griffin_PowerMate/) (USB version) to focus
 * Push PowerMate to snap to macro for when you inevitably need to share a picture on your phone by shoving in you webcam's face.
 * Push PowerMate to snap back to prior focus
 
