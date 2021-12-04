@@ -2,7 +2,11 @@
 
 A quick hack to add a manual, physical focus knob to webcam:
 
-<video src="focusmate.in.action.mp4" width="320" height="200" controls preload></video>
+
+
+https://user-images.githubusercontent.com/8253488/144701611-5f131b07-f3ba-4408-bb25-e96bb649a4c4.mp4
+
+
 
 Specifically, the Logitech C920 is notorious for regularly re-focussing:
 
