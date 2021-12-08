@@ -13,7 +13,7 @@ Also see [here](https://support.logi.com/hc/en-001/community/posts/360049083554-
 
 This quick hack solves the focus issue by:
 * Turns off autofocus
-* Sets the focus to 0 (should be in focus if you 20"+ away)
+* Sets the focus to 0 (should be in focus if you're 20"+ away)
 * Allows you to use your [PowerMate](https://en.wikipedia.org/wiki/Griffin_PowerMate) (USB version) to focus
 * Push PowerMate to snap to macro for when you inevitably need to share a picture on your phone by shoving in you webcam's face.
 * Push PowerMate to snap back to prior focus
