@@ -15,7 +15,7 @@ This quick hack solves the focus issue by:
 * Turns off autofocus
 * Sets the focus to 0 (should be in focus if you're 20"+ away)
 * Allows you to use your [PowerMate](https://en.wikipedia.org/wiki/Griffin_PowerMate) (USB version) to focus
-* Push PowerMate to snap to macro for when you inevitably need to share a picture on your phone by shoving in you webcam's face.
+* Push PowerMate to snap to macro for when you inevitably need to share a picture on your phone by shoving it in you webcam's face.
 * Push PowerMate to snap back to prior focus
 
 This is done by repurposing the awesome [Cattmate code](https://github.com/mrjones-plip/cattmate) I wrote some years ago. Now I have one knob for volume and one for focus on my desk! I'm going to need more knobs soon ...
